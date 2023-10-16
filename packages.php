@@ -7,7 +7,7 @@ $packages[] = array(
     'title' => 'Heteritos 4',
     'version' => '4.0.0',
     'priority' => 0,
-    'location' => 'heteritos-4.json',
+    'location' => 'https://github.com/MehdiPG/heteritos/blob/main/heteritos-4.json',
 );
 
 $out = array('minimumVersion' => 1, 'packages' => $packages);
